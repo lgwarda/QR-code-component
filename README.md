@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Your Solution URL](https://your-solution-url.com)
-- Live Site URL: [Your Live Site URL](https://your-live-site-url.com)
+- Solution URL: [My Solution URL](https://github.com/lgwarda/QR-code-component.git)
+- Live Site URL: [My Live Site URL](https://lgwarda.github.io/QR-code-component/)
 
 ## My process
 
@@ -68,12 +68,3 @@ In future projects, I want to focus on improving my knowledge of CSS Grid for la
 ## Acknowledgments
 
 A big thank you to the Frontend Mentor community for providing great challenges that help sharpen my skills. Also, I appreciate the resources and tutorials available online that guided me through the design process.
-
-```
-
-### Tips for Customization
-1. **Screenshot**: Don’t forget to add a screenshot of your project.
-2. **Links**: Update the solution and live site URLs with your actual links.
-3. **Personal Insights**: Feel free to elaborate on what you learned or adjust any sections to reflect your personal experience more closely.
-
-```
